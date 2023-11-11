@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Hello world!4");
         System.out.println("master");
+        System.out.println("hot-fix");
         
     }
 }
